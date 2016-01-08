@@ -1,0 +1,5 @@
+" Fugitive - Interact with git via Vim
+
+Bundle "tpope/vim-fugitive"
+
+" vim:ft=vim

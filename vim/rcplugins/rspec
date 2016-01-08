@@ -1,0 +1,7 @@
+" Vim Rspec - Run specs from vim
+
+Bundle 'thoughtbot/vim-rspec'
+
+map <Leader>t :call RunNearestSpec()<CR>
+
+" vim:ft=vim

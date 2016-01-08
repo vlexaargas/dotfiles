@@ -1,0 +1,11 @@
+" vim-airline - alternative to powerline
+
+Bundle "bling/vim-airline"
+
+" We want bar to appear all the time
+set laststatus=2
+
+" We want symbols to appear
+let g:airline_powerline_fonts = 1
+
+" vim:ft=vim

@@ -1,0 +1,5 @@
+" TextObj User - Dep of ruby block
+
+Bundle "kana/vim-textobj-user"
+
+" vim:ft=vim

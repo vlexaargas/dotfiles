@@ -1,0 +1,16 @@
+" Using solarized for general style
+syntax enable
+set background=light
+colorscheme solarized
+
+" Highlight line and col
+set cursorline
+set cursorcolumn
+
+" Hightlight searched text
+set hlsearch
+
+" Show max char guideline
+set colorcolumn=80
+
+" vim:ft=vim

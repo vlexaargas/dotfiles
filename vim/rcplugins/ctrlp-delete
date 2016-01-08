@@ -1,0 +1,5 @@
+" Ctrlp buffer delete
+
+Bundle "d11wtq/ctrlp_bdelete.vim"
+
+" vim:ft=vim
