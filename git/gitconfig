@@ -7,3 +7,5 @@
 [user]
 	email = vlexaargas@gmail.com
 	name = Alex Vargas
+[push]
+	default = simple
