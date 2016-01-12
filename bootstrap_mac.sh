@@ -48,6 +48,17 @@ if [ ! -f ~/.antigen.zsh ]; then
 fi
 
 #
+# Install Tmux
+#
+if [ -z $(brew list -1 | grep tmux) ] ; then
+  echo "Installing tmux..."
+  brew install tmux
+else
+  echo "Updating tmux..."
+  brew upgrade tmux
+fi
+
+#
 # Install MacVim - Use as new default version of vim
 #
 which -s mvim
